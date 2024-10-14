@@ -2,6 +2,9 @@
 using KitchenLib.Event;
 using KitchenMods;
 using System.Reflection;
+using Kitchen;
+using KitchenMyMod.Dishes;
+using KitchenMyMod.GDOs;
 using UnityEngine;
 
 // Namespace should have "Kitchen" in the beginning
@@ -41,8 +44,12 @@ namespace KitchenMyMod
         {
             LogInfo("Attempting to register game data...");
 
-            // AddGameDataObject<MyCustomGDO>();
-
+            AddGameDataObject<SpecialSteakDish>();
+            
+            AddGameDataObject<UncookedSpecialSteak>();
+            AddGameDataObject<CookedSpecialSteak>();
+            AddGameDataObject<PlatedSpecialSteak>();
+            
             LogInfo("Done loading game data.");
         }
 

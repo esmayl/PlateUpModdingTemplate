@@ -41,8 +41,35 @@
 	</ItemGroup>
   
 	<ItemGroup>
+	  <Reference Include="0Harmony">
+	    <HintPath>lib\0Harmony.dll</HintPath>
+	  </Reference>
 	  <Reference Include="KitchenLib-Workshop">
 	    <HintPath>lib\KitchenLib-Workshop.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Mono.Cecil">
+	    <HintPath>lib\Mono.Cecil.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Mono.Cecil.Mdb">
+	    <HintPath>lib\Mono.Cecil.Mdb.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Mono.Cecil.Pdb">
+	    <HintPath>lib\Mono.Cecil.Pdb.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Mono.Cecil.Rocks">
+	    <HintPath>lib\Mono.Cecil.Rocks.dll</HintPath>
+	  </Reference>
+	  <Reference Include="MonoMod.RuntimeDetour">
+	    <HintPath>lib\MonoMod.RuntimeDetour.dll</HintPath>
+	  </Reference>
+	  <Reference Include="MonoMod.Utils">
+	    <HintPath>lib\MonoMod.Utils.dll</HintPath>
+	  </Reference>
+	  <Reference Include="System.Memory">
+	    <HintPath>lib\System.Memory.dll</HintPath>
+	  </Reference>
+	  <Reference Include="System.Runtime.CompilerServices.Unsafe">
+	    <HintPath>lib\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
 
