@@ -39,6 +39,12 @@
 	<ItemGroup>
 		<PackageReference Include="Yariazen.PlateUp.ModBuildUtilities" Version="1.8.3" />
 	</ItemGroup>
+  
+	<ItemGroup>
+	  <Reference Include="KitchenLib-Workshop">
+	    <HintPath>lib\KitchenLib-Workshop.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
 
 	<Target Name="BundleWorkshop" AfterTargets="Build" Condition="$(EnableModDeployLocal) == 'true'">
 		<Copy SourceFiles="$(TargetDir)$(MSBuildProjectName)-Workshop.dll" DestinationFolder="$(WorkshopDir)" />
