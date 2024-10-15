@@ -12,19 +12,25 @@ public class References
 {
     public static Item Beef => Find<Item>(ItemReferences.Meat);
     public static Item Egg => Find<Item>(ItemReferences.Egg);
-    public static Item UncookedSpecialSteak => Find<Item,UncookedSpecialSteak>();
-    public static Item CookedSpecialSteak => Find<Item, CookedSpecialSteak>();
-    public static Appliance Counter => Find<Appliance>(ApplianceReferences.Countertop);
+    public static Item CrackedEgg => Find<Item>(ItemReferences.EggCracked);
     public static Item Burned => Find<Item>(ItemReferences.BurnedFood);
+    public static Item BurnedBread => Find<Item>(ItemReferences.BurnedBread);
+
+    
+    public static Item CookedSpecialSteak => Find<Item, CookedSpecialSteak>();
+    public static Item PlatedSpecialSteak => Find<Item, PlatedSpecialSteak>();
+    
+    public static Appliance Counter => Find<Appliance>(ApplianceReferences.Countertop);
 
     public static Process Cook => Find<Process>(ProcessReferences.Cook);
     public static Process Chop => Find<Process>(ProcessReferences.Chop);
     public static Process Knead => Find<Process>(ProcessReferences.Knead);
     public static Process Oven => Find<Process>(ProcessReferences.RequireOven);
-    public static Process CoatSteak => Find<Process,CoatSteak>();
+    
     public static Item Plate => Find<Item>(ItemReferences.Plate);
     public static Item DirtyPlate => Find<Item>(ItemReferences.PlateDirty);
 
+    
     internal static T Find<T>(int id) where T : GameDataObject
     {
         return (T)GDOUtils.GetExistingGDO(id) ?? (T)GDOUtils.GetCustomGameDataObject(id)?.GameDataObject;

@@ -10,7 +10,7 @@ namespace KitchenMyMod.GDOs;
 public class PlatedSpecialSteak : CustomItemGroup<PlatedSpecialSteakItemGroupView>
 {
     public override string UniqueNameID => "Plated Special Steak";
-    // public override GameObject Prefab => Mod.Bundle.LoadAsset<GameObject>("Plated Omelette");
+    public override GameObject Prefab => References.References.Plate.Prefab;
     public override ItemCategory ItemCategory => ItemCategory.Generic;
     public override ItemStorage ItemStorageFlags => ItemStorage.None;
     public override ItemValue ItemValue => ItemValue.Large;
@@ -57,17 +57,17 @@ public class PlatedSpecialSteakItemGroupView : ItemGroupView
     {
         foreach (Transform child in prefab.transform)
         {
-            Mod.LogInfo(prefab.name + " is placed on Plated Special Steak");
+            Mod.LogInfo(child.name + " is placed on Plated Special Steak");
         }
         
-        ComponentGroups = new()
-        {
-            new()
-            {
-                GameObject = GameObjectUtils.GetChildObject(prefab, "Plate"),
-                Item = References.References.Plate
-            },
-        };
+        // ComponentGroups = new()
+        // {
+        //     new()
+        //     {
+        //         GameObject = GameObjectUtils.GetChildObject(prefab, "Dish"),
+        //         Item = References.References.Plate
+        //     },
+        // };
         // This tells which sub-object of the prefab corresponds to each component of the ItemGroup
         // All of these sub-objects are hidden unless the item is present
         // ComponentGroups = new()

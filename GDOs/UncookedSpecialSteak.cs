@@ -11,7 +11,7 @@ namespace KitchenMyMod.GDOs;
 public class UncookedSpecialSteak : CustomItemGroup<CoatedSteakItemGroupView>
 {
     public override string UniqueNameID => "Special Steak";
-    public override GameObject Prefab => GameObject.Find("Meat");
+    public override GameObject Prefab => References.References.CrackedEgg.Prefab;
     public override ItemCategory ItemCategory => ItemCategory.Generic;
     public override ItemStorage ItemStorageFlags => ItemStorage.StackableFood;
     public override List<ItemGroup.ItemSet> Sets => new List<ItemGroup.ItemSet>()

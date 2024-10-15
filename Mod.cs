@@ -48,7 +48,7 @@ namespace KitchenMyMod
             
             AddGameDataObject<UncookedSpecialSteak>();
             AddGameDataObject<CookedSpecialSteak>();
-            AddGameDataObject<PlatedSpecialSteak>();
+            // AddGameDataObject<PlatedSpecialSteak>();
             
             LogInfo("Done loading game data.");
         }

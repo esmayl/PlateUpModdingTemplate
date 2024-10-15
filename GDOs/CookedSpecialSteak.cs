@@ -9,10 +9,12 @@ namespace KitchenMyMod.GDOs;
 public class CookedSpecialSteak : CustomItem
 {
     public override string UniqueNameID => "CookedSpecialSteak";
+    public override GameObject Prefab => References.References.BurnedBread.Prefab;
     public override ItemCategory ItemCategory => ItemCategory.Generic;
     public override ItemStorage ItemStorageFlags => ItemStorage.StackableFood;
     public override ItemValue ItemValue => ItemValue.ExtraLarge;
-
+    public override bool IsConsumedByCustomer => true;
+    
     public override List<Item.ItemProcess> Processes => new List<Item.ItemProcess>
     {
         new Item.ItemProcess

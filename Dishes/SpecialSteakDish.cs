@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Security.Cryptography.Xml;
 using KitchenData;
 using KitchenLib.Customs;
 using KitchenLib.Utils;
@@ -10,8 +11,9 @@ class SpecialSteakDish : CustomDish
 {
     public override string UniqueNameID => "Special Steak Dish";
     public override DishType Type => DishType.Main;
-    // public override GameObject DisplayPrefab => Mod.Bundle.LoadAsset<GameObject>("WafflesIcon").AssignMaterialsByNames();
-    // public override GameObject IconPrefab => DisplayPrefab;
+
+    public override GameObject DisplayPrefab => References.References.BurnedBread.Prefab;
+    public override GameObject IconPrefab => DisplayPrefab;
     public override DishCustomerChange CustomerMultiplier => DishCustomerChange.SmallDecrease;
     public override CardType CardType => CardType.Default;
     public override Unlock.RewardLevel ExpReward => Unlock.RewardLevel.Medium;
@@ -39,6 +41,15 @@ class SpecialSteakDish : CustomDish
         References.References.Knead
     };
     
+    public override List<Dish.MenuItem> ResultingMenuItems => new List<Dish.MenuItem>
+    {
+        new Dish.MenuItem
+        {
+            Item = References.References.CookedSpecialSteak,
+            Phase = MenuPhase.Main,
+            Weight = 1
+        }
+    };
     
     public override Dictionary<Locale, string> Recipe => new Dictionary<Locale, string>
     {
