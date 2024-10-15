@@ -9,7 +9,7 @@ namespace KitchenMyMod.GDOs;
 public class CookedSpecialSteak : CustomItem
 {
     public override string UniqueNameID => "CookedSpecialSteak";
-    public override GameObject Prefab => References.References.BurnedBread.Prefab;
+    public override GameObject Prefab => Mod.Bundle.LoadAsset<GameObject>("CookedPeePee");
     public override ItemCategory ItemCategory => ItemCategory.Generic;
     public override ItemStorage ItemStorageFlags => ItemStorage.StackableFood;
     public override ItemValue ItemValue => ItemValue.ExtraLarge;
@@ -28,7 +28,10 @@ public class CookedSpecialSteak : CustomItem
     
     public override void OnRegister(GameDataObject gameDataObject)
     {
-        base.OnRegister(gameDataObject);
+        for (int i = 0; i <= 4; i++)
+        {
+            Prefab.ApplyMaterialToChild("CookedPeePee.00"+i, "Metal Dark","Raw Fish Pink");
+        }
     }
 
 }

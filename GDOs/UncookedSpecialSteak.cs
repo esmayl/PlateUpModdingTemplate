@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 using Kitchen;
 using KitchenData;
 using KitchenLib.Customs;
@@ -8,10 +9,10 @@ using UnityEngine;
 
 namespace KitchenMyMod.GDOs;
 
-public class UncookedSpecialSteak : CustomItemGroup<CoatedSteakItemGroupView>
+public class UncookedSpecialSteak : CustomItemGroup<UncookedSteakItemGroupView>
 {
-    public override string UniqueNameID => "Special Steak";
-    public override GameObject Prefab => References.References.CrackedEgg.Prefab;
+    public override string UniqueNameID => "UncookedSpecialSteak";
+    public override GameObject Prefab => Mod.Bundle.LoadAsset<GameObject>("PeePeeParent");
     public override ItemCategory ItemCategory => ItemCategory.Generic;
     public override ItemStorage ItemStorageFlags => ItemStorage.StackableFood;
     public override List<ItemGroup.ItemSet> Sets => new List<ItemGroup.ItemSet>()
@@ -56,25 +57,22 @@ public class UncookedSpecialSteak : CustomItemGroup<CoatedSteakItemGroupView>
 }
 
 
-public class CoatedSteakItemGroupView : ItemGroupView
+public class UncookedSteakItemGroupView : ItemGroupView
 {
     internal void Setup(GameObject prefab)
     {
+        prefab.ApplyMaterialToChild("PeePee", "Onion");
+        
         // This tells which sub-object of the prefab corresponds to each component of the ItemGroup
         // All of these sub-objects are hidden unless the item is present
-        // ComponentGroups = new()
-        // {
-        //     new()
-        //     {
-        //         GameObject = GameObjectUtils.GetChildObject(prefab, "mushroomHalf.017"),
-        //         Item = References.References.Beef
-        //     },
-        //     new()
-        //     {
-        //         GameObject = GameObjectUtils.GetChildObject(prefab, "Onion - Chopped.008"),
-        //         Item = References.References.Egg
-        //     }
-        // };
+        ComponentGroups = new()
+        {
+            new()
+            {
+                GameObject = GameObjectUtils.GetChildObject(prefab, "PeePee"),
+                Item = References.References.CookedSpecialSteak
+            },
+        };
 
         ComponentLabels = new()
         {

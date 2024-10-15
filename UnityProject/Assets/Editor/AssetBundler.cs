@@ -1,6 +1,7 @@
 using System;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
@@ -19,7 +20,7 @@ public class AssetBundler
     /// <summary>
     /// Name of the output bundle file. This needs to match the bundle that you tag your assets with.
     /// </summary>
-    private static readonly string BUNDLE_FILENAME = "mod.assets";
+    private static readonly string BUNDLE_FILENAME = "specialsteakmodels";
 
     /// <summary>
     /// The output folder to place the completed bundle in.
@@ -66,12 +67,15 @@ public class AssetBundler
             bundler.WarnIfZeroAssetsAreTagged();
             bundler.WarnIfMeshAssetsAreTagged();
             bundler.WarnIfMaterialsAreTaggedOrIncluded();
-
+            
             // Delete the contents of OUTPUT_FOLDER
             bundler.CleanBuildFolder();
+            
 
             // Temporarily move the tagged assets to the temporary tag
             bundler.MoveAssetsToTemporaryAssetBundle();
+
+            Debug.Log("Success 2 !");
 
             // Lastly, create the asset bundle itself and copy it to the output folder
             bundler.CreateAssetBundle();
@@ -272,6 +276,7 @@ public class AssetBundler
 
         // Check for materials assigned to prefabs
         assetGUIDs = AssetDatabase.FindAssets($"t:prefab,b:{BUNDLE_FILENAME}");
+
         foreach (var assetGUID in assetGUIDs)
         {
             string path = AssetDatabase.GUIDToAssetPath(assetGUID);
@@ -279,9 +284,11 @@ public class AssetBundler
             {
                 continue;
             }
-
+            
             GameObject prefab = AssetDatabase.LoadAssetAtPath<GameObject>(path);
             MeshRenderer[] renderers = prefab.GetComponentsInChildren<MeshRenderer>();
+            Debug.Log(renderers.Length);
+
             foreach (MeshRenderer renderer in renderers)
             {
                 if (renderer.sharedMaterials.Any(m => m != null))
@@ -324,7 +331,7 @@ public class AssetBundler
                 if (renderer.sharedMaterials.Length > 0)
                 {
                     renderer.sharedMaterials = new Material[renderer.sharedMaterials.Length];
-                    Debug.LogFormat("Stripped materials from \"{0}\" at \"<root>/{1}\".", path, GetGameObjectPath(renderer.transform).Split(new char[] { '/' }, 3)[2]);
+                    Debug.LogFormat("Striped materials from \"{0}\" at \"<root>/{1}\".", path, GetGameObjectPath(renderer.transform).Split(new char[] { '/' }, 3)[2]);
                 }
             }
         }

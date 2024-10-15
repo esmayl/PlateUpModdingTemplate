@@ -29,7 +29,6 @@ public class References
     
     public static Item Plate => Find<Item>(ItemReferences.Plate);
     public static Item DirtyPlate => Find<Item>(ItemReferences.PlateDirty);
-
     
     internal static T Find<T>(int id) where T : GameDataObject
     {
