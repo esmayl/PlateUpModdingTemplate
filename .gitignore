@@ -402,3 +402,4 @@ FodyWeavers.xsd
 /WorkshopFolder/content/**/*.dll
 
 content/
+UnityProject/Assets/Plugins/Sirenix/
