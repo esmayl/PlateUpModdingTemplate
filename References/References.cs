@@ -16,7 +16,8 @@ public class References
     public static Item Burned => Find<Item>(ItemReferences.BurnedFood);
     public static Item BurnedBread => Find<Item>(ItemReferences.BurnedBread);
 
-    
+
+    public static Item UncookedSpecialSteak => Find<Item, CookedSpecialSteak>();
     public static Item CookedSpecialSteak => Find<Item, CookedSpecialSteak>();
     public static Item PlatedSpecialSteak => Find<Item, PlatedSpecialSteak>();
     
@@ -29,7 +30,7 @@ public class References
     
     public static Item Plate => Find<Item>(ItemReferences.Plate);
     public static Item DirtyPlate => Find<Item>(ItemReferences.PlateDirty);
-    
+
     internal static T Find<T>(int id) where T : GameDataObject
     {
         return (T)GDOUtils.GetExistingGDO(id) ?? (T)GDOUtils.GetCustomGameDataObject(id)?.GameDataObject;

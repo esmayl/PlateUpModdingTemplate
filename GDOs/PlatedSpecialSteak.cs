@@ -9,8 +9,8 @@ namespace KitchenMyMod.GDOs;
 
 public class PlatedSpecialSteak : CustomItemGroup<PlatedSpecialSteakItemGroupView>
 {
-    public override string UniqueNameID => "Plated Special Steak";
-    public override GameObject Prefab => References.References.Plate.Prefab;
+    public override string UniqueNameID => "PlatedSpecialSteak";
+    public override GameObject Prefab => Mod.Bundle.LoadAsset<GameObject>("PlatedPeePee");
     public override ItemCategory ItemCategory => ItemCategory.Generic;
     public override ItemStorage ItemStorageFlags => ItemStorage.None;
     public override ItemValue ItemValue => ItemValue.Large;
@@ -42,12 +42,17 @@ public class PlatedSpecialSteak : CustomItemGroup<PlatedSpecialSteakItemGroupVie
             }
         }
     };
-
+    
     public override void OnRegister(GameDataObject gameDataObject)
     {
-        //
-        // var plate = Prefab.GetChild("Plate/Plate");
-        // plate.ApplyMaterialToChild("Cylinder", "Plate", "Plate - Ring");
+        var cookedPeePee = GameObjectUtils.GetChildObject(Prefab, "CookedPeePee");
+        var plate = GameObjectUtils.GetChildObject(Prefab, "Plate");
+        plate.ApplyMaterial("Plate");
+        
+        for (int i = 0; i <= cookedPeePee.GetChildCount(); i++)
+        {
+            cookedPeePee.ApplyMaterialToChild("CookedPeePee.00"+i, "Well-done", "Raw Fish Pink");
+        }    
     }
 }
 
@@ -55,19 +60,19 @@ public class PlatedSpecialSteakItemGroupView : ItemGroupView
 {
     internal void Setup(GameObject prefab)
     {
-        foreach (Transform child in prefab.transform)
+        ComponentGroups = new()
         {
-            Mod.LogInfo(child.name + " is placed on Plated Special Steak");
-        }
-        
-        // ComponentGroups = new()
-        // {
-        //     new()
-        //     {
-        //         GameObject = GameObjectUtils.GetChildObject(prefab, "Dish"),
-        //         Item = References.References.Plate
-        //     },
-        // };
+            new()
+            {
+                GameObject = GameObjectUtils.GetChildObject(prefab, "Plate"),
+                Item = References.References.Plate
+            },
+            new ()
+            {
+                GameObject = GameObjectUtils.GetChildObject(prefab,"CookedPeePee"),
+                Item = References.References.CookedSpecialSteak
+            }
+        };
         // This tells which sub-object of the prefab corresponds to each component of the ItemGroup
         // All of these sub-objects are hidden unless the item is present
         // ComponentGroups = new()

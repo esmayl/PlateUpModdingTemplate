@@ -13,7 +13,6 @@ public class CookedSpecialSteak : CustomItem
     public override ItemCategory ItemCategory => ItemCategory.Generic;
     public override ItemStorage ItemStorageFlags => ItemStorage.StackableFood;
     public override ItemValue ItemValue => ItemValue.ExtraLarge;
-    public override bool IsConsumedByCustomer => true;
     
     public override List<Item.ItemProcess> Processes => new List<Item.ItemProcess>
     {
@@ -28,9 +27,9 @@ public class CookedSpecialSteak : CustomItem
     
     public override void OnRegister(GameDataObject gameDataObject)
     {
-        for (int i = 0; i <= 4; i++)
+        for (int i = 0; i <= Prefab.GetChildCount(); i++)
         {
-            Prefab.ApplyMaterialToChild("CookedPeePee.00"+i, "Metal Dark","Raw Fish Pink");
+            Prefab.ApplyMaterialToChild("CookedPeePee.00"+i, "Well-done","Raw Fish Pink");
         }
     }
 

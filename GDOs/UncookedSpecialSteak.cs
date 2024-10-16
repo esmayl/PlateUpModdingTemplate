@@ -52,7 +52,7 @@ public class UncookedSpecialSteak : CustomItemGroup<UncookedSteakItemGroupView>
 
     public override void OnRegister(GameDataObject gameDataObject)
     {
-        base.OnRegister(gameDataObject);
+        Prefab.ApplyMaterialToChild("PeePee", "Rare","Raw Fish Pink");
     }
 }
 
@@ -61,7 +61,6 @@ public class UncookedSteakItemGroupView : ItemGroupView
 {
     internal void Setup(GameObject prefab)
     {
-        prefab.ApplyMaterialToChild("PeePee", "Onion");
         
         // This tells which sub-object of the prefab corresponds to each component of the ItemGroup
         // All of these sub-objects are hidden unless the item is present
@@ -70,7 +69,7 @@ public class UncookedSteakItemGroupView : ItemGroupView
             new()
             {
                 GameObject = GameObjectUtils.GetChildObject(prefab, "PeePee"),
-                Item = References.References.CookedSpecialSteak
+                Item = References.References.UncookedSpecialSteak
             },
         };
 
@@ -78,13 +77,8 @@ public class UncookedSteakItemGroupView : ItemGroupView
         {
             new()
             {
-                Item = References.References.Beef,
-                Text = "Mu"
-            },
-            new()
-            {
-                Item = References.References.Egg,
-                Text = "O"
+                Item = References.References.UncookedSpecialSteak,
+                Text = "PP"
             }
         };
     }

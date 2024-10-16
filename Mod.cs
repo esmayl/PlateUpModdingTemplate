@@ -4,6 +4,7 @@ using KitchenLib.Event;
 using KitchenMods;
 using System.Reflection;
 using Kitchen;
+using KitchenLib.Utils;
 using KitchenMyMod.Dishes;
 using KitchenMyMod.GDOs;
 using UnityEngine;
@@ -49,7 +50,7 @@ namespace KitchenMyMod
             
             AddGameDataObject<UncookedSpecialSteak>();
             AddGameDataObject<CookedSpecialSteak>();
-            // AddGameDataObject<PlatedSpecialSteak>();
+            AddGameDataObject<PlatedSpecialSteak>();
             
             LogInfo("Done loading game data.");
         }

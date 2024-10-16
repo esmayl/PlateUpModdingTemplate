@@ -48,7 +48,7 @@ class SpecialSteakDish : CustomDish
     {
         new Dish.MenuItem
         {
-            Item = References.References.CookedSpecialSteak,
+            Item = References.References.PlatedSpecialSteak,
             Phase = MenuPhase.Main,
             Weight = 1
         }
@@ -62,16 +62,4 @@ class SpecialSteakDish : CustomDish
     {
         ( Locale.English, LocalisationUtils.CreateUnlockInfo("Special Steak menu", "Adds special steak to the menu", "You don't wanna know how it ended on your plate...") )
     };
-
-    public override void OnRegister(GameDataObject gameDataObject)
-    {
-        var cookedPeePee = GameObjectUtils.GetChildObject(DisplayPrefab, "CookedPeePee");
-        var plate = GameObjectUtils.GetChildObject(DisplayPrefab, "Plate");
-        plate.ApplyMaterial("Plate");
-        
-        for (int i = 0; i <= 4; i++)
-        {
-            cookedPeePee.ApplyMaterialToChild("CookedPeePee.00"+i, "Metal Dark", "Raw Fish Pink");
-        }    
-    }
 }
