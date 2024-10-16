@@ -73,34 +73,15 @@ public class PlatedSpecialSteakItemGroupView : ItemGroupView
                 Item = References.References.CookedSpecialSteak
             }
         };
-        // This tells which sub-object of the prefab corresponds to each component of the ItemGroup
-        // All of these sub-objects are hidden unless the item is present
-        // ComponentGroups = new()
-        // {
-        //     new()
-        //     {
-        //         GameObject = GameObjectUtils.GetChildObject(prefab, "Plate"),
-        //         Item = Refs.Plate
-        //     },
-        //     new()
-        //     {
-        //         GameObject = GameObjectUtils.GetChildObject(prefab, "Tomato Spinach Omelette"),
-        //         Item = Refs.TomatoSpinachOmelette
-        //     },
-        //     new()
-        //     {
-        //         GameObject = GameObjectUtils.GetChildObject(prefab, "Bacon Cheese Omelette"),
-        //         Item = Refs.BaconCheeseOmelette
-        //     },
-        //     new()
-        //     {
-        //         GameObject = GameObjectUtils.GetChildObject(prefab, "Mushroom Onion Omelette"),
-        //         Item = Refs.MushroomOnionOmelette
-        //     }
-        // };
+
 
         ComponentLabels = new()
         {
+            new()
+            {
+                Text = "Pl",
+                Item = References.References.Plate
+            },
             new ()
             {
                 Text = "CoSpSt",

@@ -61,10 +61,8 @@ namespace KitchenMyMod
 
         protected override void OnPostActivate(KitchenMods.Mod mod)
         {
-            // TODO: Uncomment the following if you have an asset bundle.
-            // TODO: Also, make sure to set EnableAssetBundleDeploy to 'true' in your ModName.csproj
-
             LogInfo("Attempting to load asset bundle...");
+
             Bundle = mod.GetPacks<AssetBundleModPack>().SelectMany(e => e.AssetBundles).First();
             Bundle.LoadAllAssets<GameObject>();
             
