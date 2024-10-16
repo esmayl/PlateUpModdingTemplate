@@ -1,0 +1,831 @@
+
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - Hearts
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - Hearts Icons
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Marble
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Marble Dark
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - CNY 3
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - CNY 2
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - CNY 1
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - Stripes Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - Snow
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - Turkey
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - Trees
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - Stripes Orange
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - Leaves
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - Red Tiles
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - Blue Tiles
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - Stripes Green
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - Stripes Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - Floral
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - Bones
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Tiles - Simple
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Tiles - Hex
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Cobblestone
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Planks - Tattered
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Planks - Smart
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Basic Wallpaper Yellow
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Basic Wallpaper Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Basic Wallpaper Green
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Basic Wallpaper Deep Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Basic Wallpaper Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Basic Wallpaper Beige
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Dining Floor Fancy
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Wood Chevron
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Terracotta
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Slate Tiles
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - BW Tiles
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Lino - Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Carpet - Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Carpet - Odd Beige
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Carpet - Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polyline 2D ColorBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polyline 2D ColorDodge
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polyline 2D Darken
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polyline 2D Lighten
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polyline 2D LinearBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polyline 2D Subtractive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polyline 2D Screen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polyline 2D Multiplicative
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polyline 2D Additive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polyline 2D Transparent
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polyline 2D Opaque
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 3D ColorBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 3D ColorDodge
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 3D Darken
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 3D Lighten
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 3D LinearBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 3D Subtractive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 3D Screen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 3D Multiplicative
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 3D Additive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 3D Transparent
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 3D Opaque
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 2D ColorBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 2D ColorDodge
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 2D Darken
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 2D Lighten
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 2D LinearBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 2D Subtractive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 2D Screen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 2D Multiplicative
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 2D Additive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 2D Transparent
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Line 2D Opaque
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Regular Polygon ColorBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Regular Polygon ColorDodge
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Regular Polygon Darken
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Regular Polygon Lighten
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Regular Polygon LinearBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Regular Polygon Subtractive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Regular Polygon Screen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Regular Polygon Multiplicative
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Regular Polygon Additive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Regular Polygon Transparent
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Regular Polygon Opaque
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polygon ColorBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polygon ColorDodge
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polygon Darken
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polygon Lighten
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polygon LinearBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polygon Subtractive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polygon Screen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polygon Multiplicative
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polygon Additive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polygon Transparent
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Polygon Opaque
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Torus ColorBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Torus ColorDodge
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Torus Darken
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Torus Lighten
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Torus LinearBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Torus Subtractive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Torus Screen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Torus Multiplicative
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Torus Additive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Torus Transparent
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Torus Opaque
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cuboid ColorBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cuboid ColorDodge
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cuboid Darken
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cuboid Lighten
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cuboid LinearBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cuboid Subtractive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cuboid Screen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cuboid Multiplicative
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cuboid Additive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cuboid Transparent
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cuboid Opaque
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cone ColorBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cone ColorDodge
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cone Darken
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cone Lighten
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cone LinearBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cone Subtractive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cone Screen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cone Multiplicative
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cone Additive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cone Transparent
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Cone Opaque
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Sphere ColorBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Sphere ColorDodge
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Sphere Darken
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Sphere Lighten
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Sphere LinearBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Sphere Subtractive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Sphere Screen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Sphere Multiplicative
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Sphere Additive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Sphere Transparent
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Sphere Opaque
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Quad ColorBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Quad ColorDodge
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Quad Darken
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Quad Lighten
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Quad LinearBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Quad Subtractive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Quad Screen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Quad Multiplicative
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Quad Additive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Quad Transparent
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Quad Opaque
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Triangle ColorBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Triangle ColorDodge
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Triangle Darken
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Triangle Lighten
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Triangle LinearBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Triangle Subtractive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Triangle Screen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Triangle Multiplicative
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Triangle Additive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Triangle Transparent
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Triangle Opaque
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Rect ColorBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Rect ColorDodge
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Rect Darken
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Rect Lighten
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Rect LinearBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Rect Subtractive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Rect Screen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Rect Multiplicative
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Rect Additive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Rect Transparent
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Rect Opaque
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Disc ColorBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Disc ColorDodge
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Disc Darken
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Disc Lighten
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Disc LinearBurn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Disc Subtractive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Disc Screen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Disc Multiplicative
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Disc Additive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Disc Transparent
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Shapes/Disc Opaque
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Washing/System (1)/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Washing/System/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Candle/Heads/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Burning/System/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Leaves/System/Output Particle Line
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Steam/Trail Bodies/Output ParticleStrip Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Stove/Heads (1)/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Stove/Heads/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Freezer Vapour/System/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Fog/System/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Knife Glint/System/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Flies/System/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Upgrade/System/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Make Free/System/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Witch Particles/Trailing Sparks/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Witch Particles/Heads/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Japan Effect/System (1)/Output Particle Mesh
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Japan Effect/System (1)/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Japan Effect/System/Output Particle Mesh
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Japan Effect/System/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Bees/Trail Bodies/Output ParticleStrip Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Bees/System/Output Particle Mesh
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Snow Preview/System/Output Particle Line
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Rain/System/Output Particle Line
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Thought Cloud/System/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Snow/System/Output Particle Line
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Illusion Wall/Trailing Sparks/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Illusion Wall/Heads/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Appliance Fire/System (3)/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Appliance Fire/Heads/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Cauldron Bubbles/System (1)/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Cauldron Bubbles/System/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Hat Sparkle/Heads/Output Particle Line
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Hat Sparkle/Heads/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Magic Mirror/Trailing Sparks/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Magic Mirror/Heads/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Levitation Spot/Heads (1)/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Levitation Spot/Heads/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Hearts/System/Output Particle Mesh
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Hearts/System/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Vanishing Circle/Trailing Sparks/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Vanishing Circle/Heads/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Copy/System/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Magic Spell Burst/Sparks/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Floor Sparkle/System/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Footsteps/System/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Vent Steam/Trail Bodies/Output ParticleStrip Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Machine Sparks/Trailing Sparks/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Projector/Trail Bodies/Output ParticleStrip Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Question Marks and Hearts/System (1)/Output Particle Mesh
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Question Marks and Hearts/System (1)/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Question Marks and Hearts/System/Output Particle Mesh
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Question Marks and Hearts/System/Output Particle Quad
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/VFX/Fireflies/System/Output Particle Point
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Default UI Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/BlitCopy
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/FinalPost
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/UberPost
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/Bloom
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/PaniniProjection
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/CameraMotionBlur
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/BokehDepthOfField
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/GaussianDepthOfField
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/SubpixelMorphologicalAntialiasing
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/Stop NaN
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/LutBuilderHdr
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/LutBuilderLdr
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/StencilDeferred
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/ScreenSpaceShadows
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/Sampling
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/CopyDepth
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/Blit
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/XR/XRMirrorView
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/XR/XROcclusionMesh
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/BlitCopyWithDepth
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - SplashScreen-Foreground
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - SplashScreen-Background
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Sprites/Mask
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hidden/Universal Render Pipeline/ScreenSpaceAmbientOcclusion
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - 
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Sprites-Default
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - NotoSans-Regular Atlas Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Font Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - NotoSansKR-Regular Atlas Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - NotoSansSC-Regular Atlas Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - NotoSansTC-Regular Atlas Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Capriola-Regular Atlas Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - LiberationSans SDF Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cake n Truffles Atlas Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - HelvetiHand Atlas Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Alphakind Atlas Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - fontello Atlas Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - ZenzeroGroteskSans Atlas Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Corporate-Logo-Rounded-Bold-ver3 Atlas Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - GenJyuuGothic-P-Medium Atlas Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - GenJyuuGothicX-Bold Atlas Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - TextMeshPro/Sprite
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Consolas SDF Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Blit Outlines
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Outline Shader - Snapshot
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Outline Shader
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Vertex Colour
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Default-Skybox
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - greyLight
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Label
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Oil
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Material.004
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Material.001
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - _defaultMat
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Material.002
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wall1
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - brownDark
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - _Blue1
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - brown
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - _Blue2
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - _BrushBody
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - _Contents
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Felt
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Turkey - Hat Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Turkey - Hat
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Turkey - Iris
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Autumn Foliage
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Grass - Autumn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Rock - Autumn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Door
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Roof
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wall
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Window
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bamboo Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bamboo Fried
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bamboo Leaf
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bamboo Plant
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bamboo Raw
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Dumplings Burns
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Dumplings Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Seaweed - Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Seaweed - Raw
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Mandarin Pulp
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Mandarin Skin
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Mandarin Stem
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Soy Sauce
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cherry Foliage
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Planks - Trophy
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wallpaper - Stripes Trophy
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Batter - Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Batter - Raw
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cake
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Chocolate - Darker
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Chocolate Batter
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Chocolate
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Coffee Bean 1
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Coffee Bean 2
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Frying Oil
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Icing - Coffee
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Lemon - White
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Lemon
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Witch Foliage
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Witch Grass
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Mirror
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Apple Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Apple Flesh
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - AppleBurnt
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - AppleGreen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - AppleRed
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bin Bag
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Box
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cloth - Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cloth - Cheap Dimmed
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cloth - Cheap
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cloth - Fancy
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cloth - Purple
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Coffee Glass
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Crystal - Purple Rock
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Crystal - Purple
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Danger Hob Stripe
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Danger Hob
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hob Black
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Hob
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Knob
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal - Brass
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal - Copper
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal - Dirty
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal - Matte Green
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal - Quite Dark
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal - Silver
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal - Soft Green Paint
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal - Tint Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal - Tint Green
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal Black - Shiny
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal Black
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal Dark
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal Very Dark
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal- Shiny Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal- Shiny
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Milk Glass Hidden
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Milk Glass
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Oven Glass
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Painted - Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Boat
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Sea
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Piano Black
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Piano White
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Pickle Glass
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Pickle Liquid
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Pipe Connector
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Pipe Danger
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Pipe Safety
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Pipe
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Black Dark
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Black
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Dark Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Dark Green Dirty
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Dark Green
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Dark Grey
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Dark Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Dark Yellow
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Green
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Grey
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Greyer
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Light Yellow
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Orange
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Purple
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Shiny Gold
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Shiny Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Terracotta
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Very Dark Green
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - White
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Witch Purple 2
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Witch Purple
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic - Yellow
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plastic
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Rug Centre
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Rug Edge
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Sack - Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Sack - String
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Sack - White
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Sack
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Safe Hob
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Screen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Soil
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Stone - Black
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Vase - Dark
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Vase - White
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Vase
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wood - Barrel
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wood - Corkboard
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wood - Dark
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wood - Default
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wood - Log
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wood 1 - Dim
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wood 1
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wood 2
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wood 3
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wood 4 - Painted
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wood 5 - Grey
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Affordable 1
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Art 1
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - ComfortZone
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Baked Apple
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bed - Mattress
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Curtain
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Dining Floor
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Carpet - Office
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Special - Garage
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Floor - Special - Workshop
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Kitchen Floor
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Rug - Dark Green
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Rug - Gold
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Rug - Green
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Rug - Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Special - Contract Locked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Special - Garage
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Special - Workshop
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Door External
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Door Glass
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Flower Pot
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Outside Floor
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Backdrop
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Building Blocker
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Grass
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Kerb
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Dirt 2
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Dirt
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Flower 2
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Foliage
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Marble
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Rock 1
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Snow
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Tree Dark
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Tree
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wood - Autumn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wood
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Pavement - Snowglobe
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Pavement
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Red Wall Markings
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Road Bright Yellow Markings 1
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Road White Markings
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Road Yellow Markings
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Road
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Rock - Cliff 2
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Rock - Cliff
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Rock - Granite
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Rock
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Tiles - Ground
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Tiles
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Phased Door Material
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wall Lower
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wall Main Outside
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wall Main
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Wall Top
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Burned - Light
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Burned
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cashew - Baked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cashew - Heap
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cashew
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing - Dark Yellow
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing - Leather
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing - Yellow
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing Black Shiny
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing Black
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing Bright Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing Dark Leather
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing Green Dark
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing Green
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing Leather
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing Orange
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing Pink Dark
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing Pink Light
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing Pink
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing Purple
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing Soft Pink
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Clothing White
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Coffee Cup
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cooked Pastry
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Customer - Cat
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Customer
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Dog Brown
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Dog White
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Eyes
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Flat Image - Faded
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Flat Image - Splash Screen - Chinese
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Flat Image - Splash Screen Demo
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Flat Image - Splash Screen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Flat Image
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Flour Bag
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Flour
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Strawberry
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Vanilla
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Oyster Inside
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Oyster Shell
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Oyster
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bedding
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Mirror Backing
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Unoccupied Room
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Flower - Forget
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Flower - Leave
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Flower - Patience
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Flower - Rose
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cutlery Icon
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Delivery Icon
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Service Icon
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Thinking Icon
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Balloon - Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Balloon - Green
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Balloon - Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bean - Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bean - Juice Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bean - Juice
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bean
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Blueprint
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Book Cover - Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Book Cover - Green
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Book Cover - Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bread - Bun
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bread - Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bread - Inside Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bread - Inside
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bread - Tortilla
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Bread
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cardboard
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Carried Appliance
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Carrot - Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Carrot
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cauldron Water
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cheese - Default
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cheese - Pizza
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cherry
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Chip Packet
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Chips
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Coffee - Black
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Coffee - Ice
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Coffee - Latte
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Colouring Book
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cooked Broccoli
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cooked Potato - Roast
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cooked Potato
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cork
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Egg - Darkened Yolk
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Egg - Darkened
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Egg - White
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Egg - Yolk
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Egg
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Ice
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Lettuce  - Inner
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Lettuce
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Map - Side
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Map
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Mayonnaise
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Menu Cover
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Menu Paper
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Metal - Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Milk
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Mushroom Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Mushroom Dark
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Mushroom Light
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Olive Oil Bottle
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Olive Oil
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Olive
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Onion - Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Onion - Flesh
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Onion
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paint - Black
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paint - Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paint - Deep Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paint - Gold
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paint - Green
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paint - Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paint - White
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paint - Yellow
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Painting - Blue 1
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Painting - Blue 2
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Painting - Blue 3
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Painting - Yellow
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper - Black
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper - Brown
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper - Locked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper - Menu Body Locked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper - Menu Body
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper - Menu Header Locked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper - Menu Header
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper - Newspaper
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper - Poster
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper - Postit Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper - Postit Green
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper - Postit Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper - Postit Yellow
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper - Specials Body
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper - Specials Border
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper - White
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Paper
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Pasta - Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Pasta - Raw
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Pie - Mushroom
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Pie - Vegetable
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Projector
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Pumpkin - Flesh
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Pumpkin - Roast Seeds
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Pumpkin - Stem
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Pumpkin
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw Potato - Skin
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw Potato
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Red Glass
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Rice - Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Rice
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Salad Leaf
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Sauce - Mushroom Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Sauce - Mushroom Raw
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Sauce - Red Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Sauce - Red Raw
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Soup - Meat
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Soup - Watery
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Soup
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Sweetcorn - Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Sweetcorn - Husk
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Sweetcorn
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Tape
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Tea - Bag
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Tea - Leaves
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Tomato Flesh 2
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Tomato Flesh
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Tomato Soup
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Tomato
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Water
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Lamp Beige - On
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Lamp Beige
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cooked Bone
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cooked Batter
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cooked Fillet Meat
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cooked Fish Blue 2
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cooked Fish Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cooked Fish Pink 2
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Cooked Fish Pink
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Crab - Raw Meat
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Crab - Raw Shell
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Crab Cake - No Flour
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Fish Spiny Bones
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Fish Spiny Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw Fillet Meat
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw Fillet Skin 2
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw Fillet Skin
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw Fish Blue Fin
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw Fish Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw Fish Eye
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw Fish Pink 2
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw Fish Pink
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw Fish Spiny
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Uncooked Batter
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Meat Piece Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Meat Piece Raw
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Medium Fat
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Medium
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Rare Fat
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Rare
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw Bone
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw Burger
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw Fat
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw Roast
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Turkey - Cooked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Turkey - Raw
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Turkey - Slice
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Well-done  Burger
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Well-done Fat
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Well-done
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Mess - Grease
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Mess
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Money
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Mop
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plant  Leafy
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plant
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plate - Dirty Food 2
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plate - Dirty Food Soaked
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plate - Dirty Food
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plate - Ring Strong
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plate - Ring
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Plate
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Player  Eyes
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Player - Ghost Visible
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Player - Ghost
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Player - New
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Player - Snapshot
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Player
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Raw Pastry
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Circular Timer
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Fog
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Lake Surface - Map
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Lake Surface
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Blueprint Light
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Fairy Light - Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Fairy Light - Green
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Fairy Light - Purple 2
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Fairy Light - Purple 3
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Fairy Light - Purple
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Fairy Light - Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Indicator Light On
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Indicator Light
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Neon Light - Blue
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Neon Light - Green
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Neon Light - Red
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Mirror Surface
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Preview Door
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Preview Floor Kitchen
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Preview Floor
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Preview Wall
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Simple Flat Transparent Replacement
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Tap Stream
+[INFO] [PlateUp!] 10/16/2024 12:30:33 PM: [APPLICATION][Mod] LogInfo - [My Mod] [Material] - Tomato Flesh 3
+Card - Static
+Card Customer Badge Inside
+Card Customer Badge
+Card XP Badge Inside
+Card XP Badge
+UI Panel - Cancel
+UI Panel - Contract
+UI Panel - Decoration
+UI Panel - Discord
+UI Panel - Help
+UI Panel - Money
+UI Panel - Shop
+UI Panel - Time
+UI Panel - Twitch
+UI Panel
+Ghost Bad
+Ghost Chair Active
+Ghost Chair Disabled
+Ghost Chair Nonpathable
+Ghost Sale
+Ghost
+Blackout
+Button Blocked
+Button Not Ready
+Button Ready
+Floor Shine
+Glowing Blue Dark Soft
+Glowing Blue Soft
+Glowing Card Select
+Glowing Franchise
+Glowing Outside
+Glowing White
+Glowing Yellow Star
+Mop Water
+Ping
+Sink Water
+Warning
+Garage Baseplate
+Office Baseplate
+Wood Baseplate
+Test Newspaper
+Sugar
+Tea Cup - Trim
+Tea Cup
+Wax - Dark
+Wax
+Disc Transparent [INNER_RADIUS]
+Disc Transparent [INNER_RADIUS][SECTOR]
+Disc Transparent
+Line 2D Transparent [CAP_ROUND]
+Line 2D Transparent
+Line 3D Transparent [CAP_ROUND]
+Polyline 2D Transparent [IS_JOIN_MESH][JOIN_ROUND]
+Polyline 2D Transparent [JOIN_MITER]
+Polyline 2D Transparent [JOIN_ROUND]
+Quad Transparent
+Rect Transparent [BORDERED]
+Rect Transparent [CORNER_RADIUS]
+Rect Transparent [CORNER_RADIUS][BORDERED]
+Rect Transparent
+Regular Polygon Transparent
+Sphere Transparent
+Triangle Transparent
+Lit
+_Glass
+Lid
+BaseDefault
+Material.003
+Wall2
+Cobweb
+Hot Dog
+_Plate
+Hot Dog Bun
+Card
+DECORATION_REPLACE
