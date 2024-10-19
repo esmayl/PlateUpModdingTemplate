@@ -41,8 +41,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Editor\Utils\AssetBundler.cs" />
     <Compile Include="Assets\Editor\Utils\CreateByCode.cs" />
+    <Compile Include="Assets\Editor\Utils\AssetBundler.cs" />
     <Compile Include="Assets\Editor\Utils\CreaseAssetWithContent.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.48f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
@@ -281,218 +281,254 @@
     <Reference Include="UnityEditor.UWP.Extensions">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.48f1\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.UWP.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Transforms.Hybrid">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Transforms.Hybrid.dll</HintPath>
+    </Reference>
+    <Reference Include="TwitchLib.Client">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Accessibility">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Accessibility.dll</HintPath>
+    </Reference>
     <Reference Include="Sirenix.OdinValidator.Editor">
       <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\Sirenix\Assemblies\Sirenix.OdinValidator.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="KitchenLib-Workshop">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\KitchenLib-Workshop.dll</HintPath>
+    <Reference Include="TwitchLib.PubSub">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.PubSub.dll</HintPath>
     </Reference>
-    <Reference Include="Kitchen.PostgameMode">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.PostgameMode.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ScriptableBuildPipeline">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.ScriptableBuildPipeline.dll</HintPath>
-    </Reference>
-    <Reference Include="Discord">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Discord.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Properties.UI">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Properties.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Utility">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Utility.dll</HintPath>
-    </Reference>
-    <Reference Include="CsvHelper">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\CsvHelper.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Deformations">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Deformations.dll</HintPath>
-    </Reference>
-    <Reference Include="GdkUtilities">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\GdkUtilities.dll</HintPath>
-    </Reference>
-    <Reference Include="Mono.Cecil.Pdb">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Mono.Cecil.Pdb.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="PlatformSettings">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\PlatformSettings.dll</HintPath>
-    </Reference>
-    <Reference Include="Sirenix.OdinInspector.Attributes">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\Sirenix\Assemblies\Sirenix.OdinInspector.Attributes.dll</HintPath>
-    </Reference>
-    <Reference Include="Kitchen.TutorialMode">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.TutorialMode.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.InputSystem">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.InputSystem.dll</HintPath>
-    </Reference>
-    <Reference Include="KitchenMode">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\KitchenMode.dll</HintPath>
-    </Reference>
-    <Reference Include="Kitchen.FranchiseMode">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.FranchiseMode.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Platforms.Common">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Platforms.Common.dll</HintPath>
-    </Reference>
-    <Reference Include="Kitchen.RestaurantMode">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.RestaurantMode.dll</HintPath>
-    </Reference>
-    <Reference Include="log4netPlastic">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
-    </Reference>
-    <Reference Include="SonyNP">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\SonyNP.dll</HintPath>
-    </Reference>
-    <Reference Include="Sirenix.Serialization.Config">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\Sirenix\Assemblies\Sirenix.Serialization.Config.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.InternalAPIEngineBridge.002">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.InternalAPIEngineBridge.002.dll</HintPath>
-    </Reference>
-    <Reference Include="Kitchen.Networking">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.Networking.dll</HintPath>
+    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="HueyCore">
       <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\HueyCore.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Scenes">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Scenes.dll</HintPath>
+    </Reference>
+    <Reference Include="ChefConnector">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\ChefConnector.dll</HintPath>
+    </Reference>
+    <Reference Include="TwitchLib.Api.Core.Enums">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.Core.Enums.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
       <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="Sirenix.Utilities.Editor">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\Sirenix\Assemblies\Sirenix.Utilities.Editor.dll</HintPath>
+    <Reference Include="Unity.InputSystem.ForUI">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.InputSystem.ForUI.dll</HintPath>
     </Reference>
-    <Reference Include="MessagePack.Annotations">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\MessagePack.Annotations.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Api.Core.Interfaces">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.Core.Interfaces.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Plastic.Newtonsoft.Json">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="PhotonRealtime">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\PhotonRealtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
-    </Reference>
-    <Reference Include="Kitchen.FranchiseBuilderMode">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.FranchiseBuilderMode.dll</HintPath>
-    </Reference>
-    <Reference Include="LiveSplit">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\LiveSplit.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Collections.LowLevel.ILSupport">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
-    </Reference>
-    <Reference Include="websocket-sharp">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\websocket-sharp.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Plastic.Antlr3.Runtime">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Networking.Transport">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Networking.Transport.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Client.Models">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Client.Models.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.CSharp">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Microsoft.CSharp.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Buffers">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\System.Buffers.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.MemoryProfiler">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.MemoryProfiler.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Jobs">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Jobs.dll</HintPath>
-    </Reference>
-    <Reference Include="Zio">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Zio.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Properties">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Properties.dll</HintPath>
-    </Reference>
-    <Reference Include="0Harmony">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\0Harmony.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Client.Enums">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Client.Enums.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Api.Core.Models">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.Core.Models.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualEffectGraph.Runtime">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.VisualEffectGraph.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Transforms">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Transforms.dll</HintPath>
-    </Reference>
-    <Reference Include="protobuf-net.Core">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\protobuf-net.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="Kitchen.Common">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.Common.dll</HintPath>
-    </Reference>
-    <Reference Include="Kitchen.GameData">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.GameData.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Api.Core">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="NavMeshComponents">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\NavMeshComponents.dll</HintPath>
-    </Reference>
-    <Reference Include="Sirenix.Utilities">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\Sirenix\Assemblies\Sirenix.Utilities.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Api.Helix">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.Helix.dll</HintPath>
-    </Reference>
-    <Reference Include="MonoMod.Utils">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\MonoMod.Utils.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Entities.Hybrid">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Entities.Hybrid.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.InternalAPIEngineBridge.012">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.InternalAPIEngineBridge.012.dll</HintPath>
-    </Reference>
-    <Reference Include="protobuf-net">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\protobuf-net.dll</HintPath>
-    </Reference>
-    <Reference Include="SteamPlatform">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\SteamPlatform.dll</HintPath>
-    </Reference>
-    <Reference Include="MLAPI">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\MLAPI.dll</HintPath>
-    </Reference>
-    <Reference Include="Sirenix.Serialization">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\Sirenix\Assemblies\Sirenix.Serialization.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Formats.Alembic.Runtime">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Formats.Alembic.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Kitchen.MessagePack">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.MessagePack.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Communication">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Communication.dll</HintPath>
+    <Reference Include="Unity.Mathematics.Extensions.Hybrid">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Mathematics.Extensions.Hybrid.dll</HintPath>
     </Reference>
     <Reference Include="TwitchLib.Api.Helix.Models">
       <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.Helix.Models.dll</HintPath>
     </Reference>
+    <Reference Include="TwitchLib.Api.Core.Models">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.Core.Models.dll</HintPath>
+    </Reference>
+    <Reference Include="Sirenix.OdinInspector.Attributes">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\Sirenix\Assemblies\Sirenix.OdinInspector.Attributes.dll</HintPath>
+    </Reference>
+    <Reference Include="Kitchen.Common">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="NavMeshComponents">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\NavMeshComponents.dll</HintPath>
+    </Reference>
+    <Reference Include="TwitchLib.Api.V5">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.V5.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.MemoryProfiler">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.MemoryProfiler.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Animation.Rigging">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Animation.Rigging.dll</HintPath>
+    </Reference>
+    <Reference Include="log4netPlastic">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Formats.Alembic.Runtime">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Formats.Alembic.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="GdkUtilities">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\GdkUtilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Sirenix.Serialization.Config">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\Sirenix\Assemblies\Sirenix.Serialization.Config.dll</HintPath>
+    </Reference>
+    <Reference Include="websocket-sharp">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\websocket-sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics.Extensions">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Mathematics.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="protobuf-net.Core">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\protobuf-net.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="TwitchLib.Api.V5.Models">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.V5.Models.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Mono.Cecil.dll</HintPath>
+    </Reference>
+    <Reference Include="SonyNP">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\SonyNP.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Transforms">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Transforms.dll</HintPath>
+    </Reference>
+    <Reference Include="Huey.Game">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Huey.Game.dll</HintPath>
+    </Reference>
+    <Reference Include="TwitchLib.Client.Enums">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Client.Enums.dll</HintPath>
+    </Reference>
+    <Reference Include="XGamingRuntime">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\XGamingRuntime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Immutable">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InputSystem.RebindingUI">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.InputSystem.RebindingUI.dll</HintPath>
+    </Reference>
+    <Reference Include="TwitchLib.Api.Core">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Plastic.Newtonsoft.Json">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Sirenix.Utilities.Editor">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\Sirenix\Assemblies\Sirenix.Utilities.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Kitchen.FranchiseBuilderMode">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.FranchiseBuilderMode.dll</HintPath>
+    </Reference>
+    <Reference Include="Kitchen.PostgameMode">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.PostgameMode.dll</HintPath>
+    </Reference>
+    <Reference Include="TwitchLib.Api.Core.Interfaces">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.Core.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Deformations">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Deformations.dll</HintPath>
+    </Reference>
+    <Reference Include="Kitchen.Networking">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil.Pdb">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Mono.Cecil.Pdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Recorder">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Recorder.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Plastic.Antlr3.Runtime">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="MonoMod.RuntimeDetour">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\MonoMod.RuntimeDetour.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveSplit">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\LiveSplit.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Jobs">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Jobs.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Properties.UI">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Properties.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Kitchen.Persistence">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.Persistence.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Serialization">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="AssetIcons">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\AssetIcons.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Recorder.Base">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Recorder.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Kitchen.MessagePack">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.MessagePack.dll</HintPath>
+    </Reference>
+    <Reference Include="KitchenLib-Workshop">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\KitchenLib-Workshop.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InputSystem">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.InputSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Sirenix.Utilities">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\Sirenix\Assemblies\Sirenix.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualEffectGraph.Runtime">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.VisualEffectGraph.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Entities.Hybrid">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Entities.Hybrid.dll</HintPath>
+    </Reference>
+    <Reference Include="PlatformSettings">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\PlatformSettings.dll</HintPath>
+    </Reference>
+    <Reference Include="Kitchen.MessagePack.Generated">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.MessagePack.Generated.dll</HintPath>
+    </Reference>
+    <Reference Include="Sirenix.Serialization">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\Sirenix\Assemblies\Sirenix.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="UniverseLib.Mono">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\UniverseLib.Mono.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil.Mdb">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Mono.Cecil.Mdb.dll</HintPath>
+    </Reference>
     <Reference Include="Sirenix.Reflection.Editor">
       <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\Sirenix\Assemblies\Sirenix.Reflection.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Kitchen.TutorialMode">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.TutorialMode.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Photon3Unity3D">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Photon3Unity3D.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Mathematics.dll</HintPath>
+    </Reference>
+    <Reference Include="Kitchen.RestaurantMode">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.RestaurantMode.dll</HintPath>
+    </Reference>
+    <Reference Include="TwitchLib.Communication">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Communication.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Shaders">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+    </Reference>
+    <Reference Include="Kitchen.GameData">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.GameData.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Microsoft.CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Utility">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Utility.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Burst.dll</HintPath>
     </Reference>
     <Reference Include="Facepunch.Steamworks.Win64">
       <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Facepunch.Steamworks.Win64.dll</HintPath>
@@ -500,179 +536,143 @@
     <Reference Include="ShapesRuntime">
       <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\ShapesRuntime.dll</HintPath>
     </Reference>
-    <Reference Include="Kitchen.MessagePack.Generated">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.MessagePack.Generated.dll</HintPath>
-    </Reference>
-    <Reference Include="ChefConnector">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\ChefConnector.dll</HintPath>
-    </Reference>
-    <Reference Include="MonoMod.RuntimeDetour">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\MonoMod.RuntimeDetour.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Api">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Transforms.Hybrid">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Transforms.Hybrid.dll</HintPath>
-    </Reference>
-    <Reference Include="Mono.Cecil.Rocks">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Mono.Cecil.Rocks.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Serialization">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Serialization.dll</HintPath>
-    </Reference>
-    <Reference Include="MessagePack">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\MessagePack.dll</HintPath>
-    </Reference>
-    <Reference Include="Kitchen.Persistence">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.Persistence.dll</HintPath>
-    </Reference>
     <Reference Include="Bewildered.SmartLibrary.Runtime">
       <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Bewildered.SmartLibrary.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="Huey.Game">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Huey.Game.dll</HintPath>
+    <Reference Include="TwitchLib.Client.Models">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Client.Models.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+    <Reference Include="Unity.Platforms.Common">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Platforms.Common.dll</HintPath>
     </Reference>
-    <Reference Include="System.Runtime.CompilerServices.Unsafe">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.TextMeshPro.dll</HintPath>
     </Reference>
-    <Reference Include="Mono.Cecil">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Mono.Cecil.dll</HintPath>
+    <Reference Include="System.Buffers">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\System.Buffers.dll</HintPath>
     </Reference>
-    <Reference Include="TwitchLib.Api.V5.Models">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.V5.Models.dll</HintPath>
-    </Reference>
-    <Reference Include="EarlyInit">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\EarlyInit.dll</HintPath>
-    </Reference>
-    <Reference Include="KitchenMods">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\KitchenMods.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Timeline.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.InputSystem.ForUI">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.InputSystem.ForUI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Mathematics.Extensions">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Mathematics.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="Novell.Directory.Ldap">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Novell.Directory.Ldap.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Client">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Client.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.InputSystem.RebindingUI">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.InputSystem.RebindingUI.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Api.Core.Enums">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.Core.Enums.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Scenes">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Scenes.dll</HintPath>
+    <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
       <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="System.Memory">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\System.Memory.dll</HintPath>
+    <Reference Include="Unity.Properties">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Properties.dll</HintPath>
     </Reference>
-    <Reference Include="UniverseLib.Mono">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\UniverseLib.Mono.dll</HintPath>
+    <Reference Include="EarlyInit">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\EarlyInit.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Recorder.Base">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Recorder.Base.dll</HintPath>
-    </Reference>
-    <Reference Include="Sirenix.OdinInspector.Editor">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\Sirenix\Assemblies\Sirenix.OdinInspector.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Api.V5">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.V5.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Unity">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Unity.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Threading.Tasks.Extensions">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\System.Threading.Tasks.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="unityplastic">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Collections">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Collections.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Mathematics">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Mathematics.dll</HintPath>
-    </Reference>
-    <Reference Include="Photon3Unity3D">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Photon3Unity3D.dll</HintPath>
-    </Reference>
-    <Reference Include="Mono.Cecil.Mdb">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Mono.Cecil.Mdb.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.PubSub">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.PubSub.dll</HintPath>
-    </Reference>
-    <Reference Include="Kitchen.ResearchMode">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.ResearchMode.dll</HintPath>
-    </Reference>
-    <Reference Include="LogoMaker">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\LogoMaker.dll</HintPath>
-    </Reference>
-    <Reference Include="Controllers">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Controllers.dll</HintPath>
-    </Reference>
-    <Reference Include="XGamingRuntime">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\XGamingRuntime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Mathematics.Extensions.Hybrid">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Mathematics.Extensions.Hybrid.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Collections.Immutable">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\System.Collections.Immutable.dll</HintPath>
+    <Reference Include="MessagePack">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\MessagePack.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Properties.Reflection">
       <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Properties.Reflection.dll</HintPath>
     </Reference>
-    <Reference Include="Kitchen.Layouts">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.Layouts.dll</HintPath>
+    <Reference Include="MLAPI">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\MLAPI.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Recorder">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Recorder.dll</HintPath>
+    <Reference Include="MonoMod.Utils">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\MonoMod.Utils.dll</HintPath>
     </Reference>
-    <Reference Include="Accessibility">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Accessibility.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Entities">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Entities.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.Extensions.Logging.Abstractions">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Animation.Rigging">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Animation.Rigging.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Burst">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Burst.dll</HintPath>
+    <Reference Include="Microsoft.Bcl.HashCode">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Microsoft.Bcl.HashCode.dll</HintPath>
     </Reference>
     <Reference Include="XblPCSandbox">
       <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\XblPCSandbox.dll</HintPath>
     </Reference>
-    <Reference Include="AssetIcons">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\AssetIcons.dll</HintPath>
+    <Reference Include="PhotonRealtime">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\PhotonRealtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Collections">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="CsvHelper">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\CsvHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Zio">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Zio.dll</HintPath>
+    </Reference>
+    <Reference Include="KitchenMods">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\KitchenMods.dll</HintPath>
+    </Reference>
+    <Reference Include="Novell.Directory.Ldap">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Novell.Directory.Ldap.dll</HintPath>
+    </Reference>
+    <Reference Include="Controllers">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Controllers.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagePack.Annotations">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\MessagePack.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="Kitchen.FranchiseMode">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.FranchiseMode.dll</HintPath>
+    </Reference>
+    <Reference Include="TwitchLib.Api.Helix">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.Helix.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Entities">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Entities.dll</HintPath>
+    </Reference>
+    <Reference Include="KitchenMode">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\KitchenMode.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEngineBridge.012">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.InternalAPIEngineBridge.012.dll</HintPath>
+    </Reference>
+    <Reference Include="Kitchen.Layouts">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.Layouts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Unsafe">
       <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Burst.Unsafe.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.Bcl.HashCode">
-      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Microsoft.Bcl.HashCode.dll</HintPath>
+    <Reference Include="Kitchen.ResearchMode">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Kitchen.ResearchMode.dll</HintPath>
+    </Reference>
+    <Reference Include="TwitchLib.Api">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Api.dll</HintPath>
+    </Reference>
+    <Reference Include="LogoMaker">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\LogoMaker.dll</HintPath>
+    </Reference>
+    <Reference Include="Sirenix.OdinInspector.Editor">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\Sirenix\Assemblies\Sirenix.OdinInspector.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="SteamPlatform">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\SteamPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="protobuf-net">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\protobuf-net.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEngineBridge.002">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.InternalAPIEngineBridge.002.dll</HintPath>
+    </Reference>
+    <Reference Include="TwitchLib.Unity">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\TwitchLib.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil.Rocks">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Mono.Cecil.Rocks.dll</HintPath>
+    </Reference>
+    <Reference Include="Discord">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Discord.dll</HintPath>
+    </Reference>
+    <Reference Include="unityplastic">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Library\PackageCache\com.unity.collab-proxy@2.0.4\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Collections.LowLevel.ILSupport">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Networking.Transport">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.Networking.Transport.dll</HintPath>
+    </Reference>
+    <Reference Include="0Harmony">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ScriptableBuildPipeline">
+      <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Assets\Plugins\PlateUpLibs\Unity.ScriptableBuildPipeline.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>C:\Users\esmayl\Desktop\PersonalProjects\PlateUpModdingTemplate\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>

@@ -65,6 +65,8 @@ namespace KitchenMyMod
 
             Bundle = mod.GetPacks<AssetBundleModPack>().SelectMany(e => e.AssetBundles).First();
             Bundle.LoadAllAssets<GameObject>();
+            Bundle.LoadAllAssets<Material>();
+            
             
             LogInfo("Done loading asset bundle.");
 

@@ -52,7 +52,7 @@ public class UncookedSpecialSteak : CustomItemGroup<UncookedSteakItemGroupView>
 
     public override void OnRegister(GameDataObject gameDataObject)
     {
-        Prefab.ApplyMaterialToChild("PeePee", "Rare","Raw Fish Pink");
+        Prefab.ApplyMaterialToChild("PeePee", "Raw Fish Pink", "Rare");
     }
 }
 
