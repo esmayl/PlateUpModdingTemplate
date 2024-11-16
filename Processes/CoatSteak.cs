@@ -2,7 +2,7 @@ using KitchenData;
 using KitchenLib.Customs;
 using KitchenLib.Utils;
 
-namespace KitchenMyMod.Processes;
+namespace PeePeeMod.Processes;
 
 class CoatSteak : CustomProcess
 {

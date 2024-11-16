@@ -3,10 +3,10 @@ using KitchenData;
 using KitchenLib.Customs;
 using KitchenLib.References;
 using KitchenLib.Utils;
-using KitchenMyMod.GDOs;
-using KitchenMyMod.Processes;
+using PeePeeMod.Processes;
+using PeePeeMod.GDOs;
 
-namespace KitchenMyMod.References;
+namespace PeePeeMod.References;
 
 public class References
 {

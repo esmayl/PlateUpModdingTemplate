@@ -1,10 +1,11 @@
+using System;
 using System.Collections.Generic;
 using KitchenData;
 using KitchenLib.Customs;
 using KitchenLib.Utils;
 using UnityEngine;
 
-namespace KitchenMyMod.Dishes;
+namespace PeePeeMod.Dishes;
 
 class SpecialSteakDish : CustomDish
 {
@@ -24,7 +25,7 @@ class SpecialSteakDish : CustomDish
     public override bool IsAvailableAsLobbyOption => true;
     public override bool IsMainThatDoesNotNeedPlates => true;
     public override int Difficulty => 5;
-    public override HashSet<Dish> PrerequisiteDishesEditor => new HashSet<Dish>();
+    [Obsolete("Please use HardcodedRequirements")] public override HashSet<Dish> PrerequisiteDishesEditor => new HashSet<Dish>();
     public override List<string> StartingNameSet => new List<string>
     {
         "Steak a'lot",

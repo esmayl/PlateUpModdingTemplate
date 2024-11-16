@@ -7,12 +7,12 @@ using KitchenLib.References;
 using KitchenLib.Utils;
 using UnityEngine;
 
-namespace KitchenMyMod.GDOs;
+namespace PeePeeMod.GDOs;
 
 public class UncookedSpecialSteak : CustomItemGroup<UncookedSteakItemGroupView>
 {
     public override string UniqueNameID => "UncookedSpecialSteak";
-    public override GameObject Prefab => Mod.Bundle.LoadAsset<GameObject>("PeePeeParent");
+    public override GameObject Prefab => Mod.Bundle.LoadAsset<GameObject>("PeePeeParent2");
     public override ItemCategory ItemCategory => ItemCategory.Generic;
     public override ItemStorage ItemStorageFlags => ItemStorage.StackableFood;
     public override List<ItemGroup.ItemSet> Sets => new List<ItemGroup.ItemSet>()
@@ -52,7 +52,27 @@ public class UncookedSpecialSteak : CustomItemGroup<UncookedSteakItemGroupView>
 
     public override void OnRegister(GameDataObject gameDataObject)
     {
-        Prefab.ApplyMaterialToChild("PeePee", "Raw Fish Pink", "Rare");
+        var mats = MaterialUtils.GetAllMaterials(true);
+        foreach (Material mat in mats)
+        {
+            Mod.LogInfo(mat.shader.name);
+        }
+
+        Material material1 = new Material(Shader.Find("Universal Render Pipeline/Unlit"));
+
+        material1.name = "HeadMaterial";
+        material1.SetVector("_BaseColor", new Vector4(1,1,1,1));
+        material1.SetFloat("_Smoothness", 0.1f);
+        material1.SetFloat("_Metallic", 0f);
+        
+        Material rareMat = MaterialUtils.GetExistingMaterial("Rare");
+        Texture2D headTexture = Mod.Bundle.LoadAsset<Texture2D>("HeadTexture");
+        // Material newMat = UnityEngine.Object.Instantiate(headMat);
+        // newMat.mainTexture = headTexture;
+        //
+        material1.SetTexture("_BaseMap",headTexture);
+
+        Prefab.ApplyMaterialToChild("PeePee2", [material1,rareMat]);
     }
 }
 

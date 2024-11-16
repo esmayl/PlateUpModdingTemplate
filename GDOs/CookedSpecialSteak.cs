@@ -4,7 +4,7 @@ using KitchenLib.Customs;
 using KitchenLib.Utils;
 using UnityEngine;
 
-namespace KitchenMyMod.GDOs;
+namespace PeePeeMod.GDOs;
 
 public class CookedSpecialSteak : CustomItem
 {
@@ -27,10 +27,30 @@ public class CookedSpecialSteak : CustomItem
     
     public override void OnRegister(GameDataObject gameDataObject)
     {
-        for (int i = 0; i <= Prefab.GetChildCount(); i++)
+        // Material material1 = new Material(Shader.Find("Universal Render Pipeline/Unlit"));
+        // Material rareMat = MaterialUtils.GetExistingMaterial("Well-done");
+        // Texture2D headTexture = Mod.Bundle.LoadAsset<Texture2D>("HeadTexture");
+        //
+        // material1.name = "HeadMaterial";
+        // material1.SetVector("_BaseColor", new Vector4(1,1,1,1));
+        // material1.SetFloat("_Smoothness", 0.1f);
+        // material1.SetFloat("_Metallic", 0f);
+        // material1.SetTexture("_BaseMap",headTexture);
+        //
+        // for (int i = 0; i <= Prefab.GetChildCount(); i++)
+        // {
+        //     Prefab.ApplyMaterialToChild("CookedPeePee.00"+i, [rareMat,material1]);
+        // }
+        
+        var cookedPeePee = GameObjectUtils.GetChildObject(Prefab, "CookedPeePee");
+        
+        var plate = GameObjectUtils.GetChildObject(Prefab, "Plate");
+        plate.ApplyMaterial("Plate");
+        
+        for (int i = 0; i <= cookedPeePee.GetChildCount(); i++)
         {
-            Prefab.ApplyMaterialToChild("CookedPeePee.00"+i, "Well-done","Raw Fish Pink");
-        }
+            cookedPeePee.ApplyMaterialToChild("CookedPeePee.00"+i, "Well-done", "Raw Fish Pink");
+        }    
     }
 
 }

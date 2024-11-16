@@ -5,7 +5,7 @@ using KitchenLib.Customs;
 using KitchenLib.Utils;
 using UnityEngine;
 
-namespace KitchenMyMod.GDOs;
+namespace PeePeeMod.GDOs;
 
 public class PlatedSpecialSteak : CustomItemGroup<PlatedSpecialSteakItemGroupView>
 {
@@ -46,6 +46,7 @@ public class PlatedSpecialSteak : CustomItemGroup<PlatedSpecialSteakItemGroupVie
     public override void OnRegister(GameDataObject gameDataObject)
     {
         var cookedPeePee = GameObjectUtils.GetChildObject(Prefab, "CookedPeePee");
+        
         var plate = GameObjectUtils.GetChildObject(Prefab, "Plate");
         plate.ApplyMaterial("Plate");
         
